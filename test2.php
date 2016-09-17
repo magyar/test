@@ -34,7 +34,6 @@ function arr($arr_key, $arr, $val){
 }
 
 
-
 var_dump(test2($data1));
 
 //сделает такой и наоборот
